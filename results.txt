@@ -1,0 +1,26 @@
+./myprog
+The prefix representation retrieved from the file : 
++-a/*bcde
+
+The Vertical Tree representation: 
+                              +
+
+              -                               e
+
+      a               /                                
+
+                  *       d                                
+
+                b   c                                        
+
+
+
+
+The Infix representation: 
+a - b * c / d + e 
+
+
+The Postfix representation: 
+a b c * d / - e + 
+
+

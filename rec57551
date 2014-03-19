@@ -1,0 +1,14 @@
+cs2720p2:
+total 52
+-rw-r--r--. 1 temp 10101 Apr 30 00:32 binstree.h
+-rw-r--r--. 1 temp    11 Apr 29 22:43 expr.txt
+-rw-r--r--. 1 temp  4276 Apr 28 16:32 list1.h
+-rw-r--r--. 1 temp  3169 Apr 29 20:49 main.cc
+-rw-r--r--. 1 temp    67 Apr 29 22:48 makefile
+-rw-r--r--. 1 temp   327 Apr 28 16:31 node.h
+-rw-r--r--. 1 temp  1129 Apr 30 00:35 README.txt
+-rw-r--r--. 1 temp     0 Apr 30 00:36 rec57551
+-rw-r--r--. 1 temp  1219 Apr 29 18:29 stack.h
+-rw-r--r--. 1 temp  1798 Apr 29 23:17 traversal.h
+-rw-r--r--. 1 temp   913 Apr 29 23:17 treenode.h
+/home/temps/henry/cs2720/cs2720p2/cs2720p2:/home/work/cs2720a
